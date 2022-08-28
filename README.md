@@ -1,4 +1,4 @@
-# Bascom_avr-Clock.6
+# Bascom_avr-Clock
 
 <p align="center">
 <img src="./Pic.jpg" height="240">
